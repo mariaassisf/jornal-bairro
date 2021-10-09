@@ -1,0 +1,132 @@
+header{
+
+    padding: 5px;
+    text-align: center;
+    font-style: oblique;
+   font-family:Arial;
+   background-color: rgb(170, 224, 219);
+
+
+}
+body{
+    margin: 0px;
+    background-color: rgb(138, 208, 223);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    }
+    nav ul{
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    nav li{
+        background-color: rgba(0, 133, 93, 0.185);
+        padding: 7px;        
+    }
+    #foto1{
+        width: 250px;
+        height: 200px;
+        float: left;
+        margin-right: 20px;
+        margin-left: 20px;
+        padding: 20px;         
+             
+    }
+    #entrada1{
+        text-align: center;
+    }
+    #entrada2{
+        text-align: center;
+        }
+    #primeiroparagrafo{
+        font-style: oblique;
+        font-family:Arial ;
+        margin: 0px;
+        background-color: rgb(216, 216, 216);
+       margin-left: 100px;
+       margin-right: 100px;
+       padding: 50px;  
+        }
+    .rosa{
+        color: rgba(245, 72, 101, 0.904);
+    }
+    .azul{
+        color: rgba(54, 173, 163, 0.904);
+    }
+    .vermelha{
+        color: red;
+    }
+    .verde{
+        color: green;
+    }
+    .laranja{
+        color: orange;
+    }
+    footer{
+        background-color: rgb(72, 129, 129);
+        padding: 5px;
+        text-align: center;
+        font-family: Arial;
+        height: 160px;
+        font-size: 15px;
+        font-style: italic;
+        color: white;  
+
+           }
+    .PRIMEIRADIVDAFOTO{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+     #segundoparagrafo{
+        font-style: oblique;
+        font-family:Arial ;
+        margin: 0px;
+        background-color: rgb(216, 216, 216);
+       margin-left: 100px;
+       margin-right: 100px;
+       padding: 50px;  
+            
+    }
+    .SEGUNDADIVDAFOTO{
+        margin-left: 100px;
+        margin-right: 100px;
+     }
+     #foto2{
+         width: 200px;
+         height: 150px;
+         float: right;
+         margin-right: 20px;
+         margin-left: 20px;
+         padding: 20px;
+     }
+     #segundoparagrafo2{
+         background-color: rgb(216, 216, 216);
+         font-style: oblique;
+         font-family: Arial;
+         margin-left: 100px;
+         margin-right: 100px;
+         padding: 50px;
+            }
+            #sustentabilidade{
+                
+                color: rgb(23, 189, 45);
+            }
+            #video{
+                padding: 20px;
+                margin-left: 50px;
+            }
+           #terceiroparagrafo3{
+            background-color: rgb(216, 216, 216);
+            font-style: oblique;
+            font-family: Arial;
+            margin-left: 100px;
+            margin-right: 100px;
+            padding: 50px;
+                          }
+                                      
